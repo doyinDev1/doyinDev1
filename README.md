@@ -42,7 +42,7 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 - 🏦 **Retail Banking App (Sterling Bank)** – Contributed via Bulb Africa to the **multi-frontend retail banking engine** used by thousands of customers.  
 - 🌞 **[IceSolar.co](https://icesolar.co/)** – Website redesign for a clean energy company
 - 🛠️ [oss-tea-web33](https://github.com/doyinDev1/oss-tea-web33) – Ethereum contract artisan tool  
-- ⚡ **WattWise** – SaaS tool for solar/inverter needs estimation  
+- ⚡  [**WattWise**](https://watt-wise-nine.vercel.app/)– SaaS tool for solar/inverter needs estimation  
 - 📂 [More Projects →](https://github.com/doyinDev1?tab=repositories)
 
 ---
