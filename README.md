@@ -21,7 +21,13 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 ### 🌐 SaaS & Web3  
 - Built **multi-tenant SaaS dashboards** with React, Next.js, and Node.js.  
 - Developed **smart contract interaction tools** (e.g. [oss-tea-web33](https://github.com/doyinDev1/oss-tea-web33)).  
-- Exploring **Proof-of-Contribution apps** for the tea Protocol.  
+- Exploring **Proof-of-Contribution apps** for the tea Protocol.
+
+### 🛒 E-Commerce (RHMSTECH)
+  - Built and optimized the **frontend experience** with React/Next.js  
+  - Integrated **product catalog, cart, and checkout flows** for seamless shopping  
+  - Enhanced performance and responsiveness for Nigerian customers 
+**[RHMS Tech E-Commerce](https://rhmstech.com/)** – Modern online store platform 
 
 ---
 
