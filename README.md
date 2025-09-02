@@ -45,13 +45,6 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 
 ---
 
-## 📊 GitHub Stats  
-
-![Adedoyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyinDev1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doyinDev1&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Let’s Connect  
 
 [![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/theonlydoyin)  
