@@ -16,18 +16,19 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 - Contributed to **core banking and retail finance apps** (e.g. Sterling Bank’s retail engine via Bulb Africa).  
 - Helped implement a **micro-frontend architecture** that supported multiple vendors on a single platform.  
 - Worked on **secure payment flows, account dashboards, and multi-tenant architectures** to scale across organizations.  
-- Collaborated with cross-functional teams to ensure **compliance, performance, and great UX**.  
-
-### 🌐 SaaS & Web3  
-- Built **multi-tenant SaaS dashboards** with React, Next.js, and Node.js.  
-- Developed **smart contract interaction tools** (e.g. [oss-tea-web33](https://github.com/doyinDev1/oss-tea-web33)).  
-- Exploring **Proof-of-Contribution apps** for the tea Protocol.
+- Collaborated with cross-functional teams to ensure **compliance, performance, and great UX**.
 
 ### 🛒 E-Commerce (RHMSTECH)
   - Built and optimized the **frontend experience** with React/Next.js  
   - Integrated **product catalog, cart, and checkout flows** for seamless shopping  
   - Enhanced performance and responsiveness for Nigerian customers 
-**[RHMS Tech E-Commerce](https://rhmstech.com/)** – Modern online store platform 
+**[RHMS Tech E-Commerce](https://rhmstech.com/)** – Modern online store platform
+
+
+### 🌐 SaaS & Web3  
+- Built **multi-tenant SaaS dashboards** with React, Next.js, and Node.js.  
+- Developed **smart contract interaction tools** (e.g. [oss-tea-web33](https://github.com/doyinDev1/oss-tea-web33)).  
+- Exploring **Proof-of-Contribution apps** for the tea Protocol.
 
 ---
 
