@@ -6,6 +6,7 @@ I build clean, scalable, and user-friendly apps with a strong focus on **FinTech
 I’ve contributed to **digital banking platforms, payment systems, and B2C SaaS products**, helping teams ship products that are secure, reliable, and built for scale.  
 
 Currently building **WattWise** ⚡ — a SaaS for transparent solar energy decisions.  
+[**Explore WattWise** »](https://watt-wise-nine.vercel.app/)
 
 ---
 
