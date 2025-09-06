@@ -32,7 +32,7 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)  
