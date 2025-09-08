@@ -56,7 +56,6 @@ Currently building **WattWise** ⚡ — a SaaS for transparent solar energy deci
 
 ## 🌍 Let’s Connect  
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/theonlydoyin)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedoyin-oyebanji-949a13165/)  
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:adedoyin27@gmail.com)  
 
